@@ -8,7 +8,7 @@ title = "SVG - Scalable Vector Graphics"
 [output.html]
 git-repository-url = "https://github.com/szabgab/svg.code-maven.com"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/szabgab/svg.code-maven.com/edit/main/svg/{path}"
+edit-url-template = "https://github.com/szabgab/svg.code-maven.com/edit/main/books/svg/{path}"
 
 [output.markdown]
 
