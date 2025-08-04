@@ -11,9 +11,19 @@
   - [Convert SVG to PNG or JPEG](./introduction/convert-svg-to-png-or-jpeg.md)
 
 - [Shapes](./shapes/index.md)
-  - [Circle](./shapes/circle.md)
-  - [Rectangle](./shapes/rectangle.md)
   - [Lines](./shapes/lines.md)
+    - [Diagonal line](./shapes/diagonal-line.md)
+    - [Horizontal line](./shapes/horizontal-line.md)
+    - [Vertical line](./shapes/vertical-line.md)
+  - [Circle](./shapes/circle.md)
+  - [Rectangles](./shapes/rectangle.md)
+    - [Rectangles](./shapes/rectangles.md)
+    - [Set the width and height as a percentage](./shapes/rectangle-as-percentage.md)
+    - [Rectangle without color/fill](./shapes/rectangle-without-color.md)
+    - [White rectangle with border](./shapes/white-rectangle-with-border.md)
+    - [Rectangle with rounded corner](./shapes/rectangle-with-rounded-corners.md)
+  - [Square](./shapes/square.md)
+  - [Ellipse](./shapes/ellipse.md)
   - [Polygon](./shapes/polygon.md)
   - [Triangle](./shapes/triangle.md)
   - [Polyline](./shapes/polyline.md)
@@ -25,9 +35,6 @@
 
   - [Embed external image](./shapes/image.md)
 
-  - [Rectangles](./shapes/rectangles.md)
-  - [Square](./shapes/square.md)
-  - [Ellipse](./shapes/ellipse.md)
   - [Horizontal gradient](./shapes/horizontal-gradient.md)
 
 
