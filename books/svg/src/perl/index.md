@@ -4,3 +4,5 @@ You can also generate SVG using a Perl module called, [SVG](https://metacpan.org
 
 I assume that if you would like to use Perl then you know how to install the SVG module from CPAN, so I'll just show a number of examples.
 
+TODO: See more [SVG in Perl](https://perlmaven.com/svg) examples.
+

@@ -14,7 +14,6 @@
 
 * Some tool to verify if the SVG file is correct. e.g. no invalid attribute names or attribute values?
 
-The Python logo taken from [here](https://www.python.org/community/logos/)
 
 
 * Charts with svg Draw coordinates and a line, box chart.  Pie chart with colors and legend.

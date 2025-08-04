@@ -1,0 +1,6 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="rgb(30, 30, 230)" />
+  <circle cx="200" cy="120" r="40" fill="rgb(250, 250, 250)" />
+  <text x="200" y="50" font-size="30"
+     text-anchor="middle" fill="white">SVG loaded via iframe</text>
+</svg>
