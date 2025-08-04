@@ -1,13 +1,5 @@
-# Polyline - Snail
-
-{% embed include file="src/examples/polyline.svg" %}
-
-![Polygon](../examples/polyline.svg)
+# Polyline
 
 
-{% embed include file="src/examples/polyline-w.svg" %}
-
-![Polygon](../examples/polyline-w.svg)
-
-
+A polyline is a series of (x,y) points in which every two adjacent point is connected with a line. Unlike in a polygon, in this case the last point is NOT connected to the first one leaving the polyline "open".
 
