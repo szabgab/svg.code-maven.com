@@ -3,6 +3,7 @@
 - [SVG](./index.md)
 
 - [Introduction](./introduction/index.md)
+  - [SVG and LLMs](./introduction/llms.md)
   - [SVG embedded in HTML](./introduction/svg-embedded-in-html.md)
   - [SVG loaded in an img](./introduction/svg-loaded-in-img.md)
   - [SVG loaded in an object](./introduction/svg-loaded-in-object.md)
@@ -11,6 +12,12 @@
   - [Convert SVG to PNG or JPEG](./introduction/convert-svg-to-png-or-jpeg.md)
   - [Style](./introduction/style.md)
   - [Colors](./introduction/colors.md)
+  - [g container element](./introduction/g-container.md)
+  - [Transformations](./introduction/transformations.md)
+  - [Size vs ViewBox](./introduction/size-vs-viewbox.md)
+    - [Size](./introduction/size.md)
+    - [ViewBox](./introduction/viewbox.md)
+  - [Links](./introduction/links.md)
 
 - [Shapes](./shapes/index.md)
   - [Lines](./shapes/lines.md)

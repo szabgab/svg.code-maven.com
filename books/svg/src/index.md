@@ -19,6 +19,8 @@ These images are called **vector images**.
 There are several such system. We are going to discuss SVG - the Scalable Vector Graphics.
 
 
+See the [grid](./perl/grid.md) example.
+
 * [SVG Specification](https://www.w3.org/TR/SVG/)
 
 * [SVG: Scalable Vector Graphics on Mozilla](https://developer.mozilla.org/en-US/docs/Web/SVG) including a nice tutorial.

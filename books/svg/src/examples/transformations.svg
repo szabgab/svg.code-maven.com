@@ -1,0 +1,5 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="100,0 100,50 60,120" fill="#2ABFB5" stroke-width="3" />
+  <polygon points="100,0 100,50 60,120" fill="red" stroke-width="3"  transform="rotate(10, 100, 0)" />
+  <polygon points="100,0 100,50 60,120" fill="blue" stroke-width="3"  transform="translate(20,0)" />
+</svg>
