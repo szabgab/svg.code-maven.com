@@ -1,0 +1,29 @@
+<svg viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="white" />
+    <!-- Rectangle (bottom layer) -->
+    <path d="M 50 80 L 200 80 L 200 220 L 50 220 Z" 
+          fill="#ff6b6b" 
+          stroke="#333" 
+          stroke-width="2"/>
+    
+    <!-- Circle (middle layer - hides part of rectangle) -->
+    <circle cx="30" cy="80" r="40" 
+            fill="#4ecdc4" 
+            stroke="#333" 
+            stroke-width="2"/>
+    
+    <!-- Octagon (top layer - partially transparent) -->
+    <path d="M 180 120 
+             L 210 120 
+             L 230 140 
+             L 230 170 
+             L 210 190 
+             L 180 190 
+             L 160 170 
+             L 160 140 Z" 
+          fill="#45b7d1" 
+          fill-opacity="0.6" 
+          stroke="#333" 
+          stroke-width="2"/>
+
+</svg>
