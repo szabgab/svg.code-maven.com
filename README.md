@@ -16,8 +16,4 @@
 
 
 
-* Charts with svg Draw coordinates and a line, box chart.  Pie chart with colors and legend.
-* Embed one svg in another
-* Stroke stroke-width attributes
-* Outline or border
 

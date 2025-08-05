@@ -49,6 +49,9 @@
 
   - [Horizontal gradient](./shapes/horizontal-gradient.md)
 
+- [Charts](./charts/index.md)
+  - [Stacked chart](./charts/stacked.md)
+  - [Pie chart](./charts/pie.md)
 
 - [Drawings](./drawings/index.md)
   - [House front](./drawings/house-front.md)
