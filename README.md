@@ -14,6 +14,5 @@
 
 * Some tool to verify if the SVG file is correct. e.g. no invalid attribute names or attribute values?
 
-
-
-
+* Venn diagrams
+* Olympic 5 circles
