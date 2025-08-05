@@ -26,3 +26,5 @@ See the [grid](./perl/grid.md) example.
 * [SVG: Scalable Vector Graphics on Mozilla](https://developer.mozilla.org/en-US/docs/Web/SVG) including a nice tutorial.
 
 * A collection of [SVG icons](https://www.svgrepo.com/).
+
+* [SVG images on Wikipedia](https://en.wikipedia.org/wiki/Category:Wikipedia_images_in_SVG_format)

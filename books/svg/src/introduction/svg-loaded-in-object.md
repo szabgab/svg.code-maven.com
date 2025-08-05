@@ -1,7 +1,9 @@
 # SVG loaded in an `object`
 
 Certain features do not work when using the HTML `img` tag to display an SVG file. Specifically the embedding of other images in the SVG file using the `image` tag of SVG does not work.
-Using `object` solves this problem.
+Nor can one link using the `a` SVG tag.
+
+Using `object` solves these problems.
 
 In this example we have embedded the SVG file from the previous example.
 

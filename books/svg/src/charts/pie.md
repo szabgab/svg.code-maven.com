@@ -1,15 +1,15 @@
 # Pie chart
 
 
-I created the SVG file with the rectangle in VS Code and then asked co-pilot to: "add a piechart to the svg file".
+I created the SVG file with the rectangle in VS Code and then asked co-pilot to: **"add a piechart to the svg file"**.
 It created this example and gave me an explanation of it.
 
-Then I asked it to "Write a python function that will get the segments as parameters and will generate a similar SVG file" and it created a nice one
+Then I asked it to **"Write a python function that will get the segments as parameters and will generate a similar SVG file"** and it created a nice one
 though it did not use any 3rd party library.
 
-So I asked "is there a 3rd party library that could be used instead of implementing the creation of the chart?"
+So I asked **"is there a 3rd party library that could be used instead of implementing the creation of the chart?"**
 
-It suggested Pygal, Matplotlib, and Plotly.
+It suggested [Pygal](https://www.pygal.org/en/stable/), [Matplotlib](https://matplotlib.org/), and [Plotly](https://plotly.com/python/).
 
 ![Stacked](../examples/charts/piechart.svg)
 
