@@ -89,6 +89,7 @@
   - [Functional Programming in Python](./book-covers/python-functional-programming.md)
   - [Testing Python](./book-covers/python-testing.md)
   - [Python Testing Demo](./book-covers/python-testing-demo.md)
+  - [Python Tk](./book-covers/python-tk.md)
 
   - [OOP in Perl](./book-covers/perl-oop.md)
 
