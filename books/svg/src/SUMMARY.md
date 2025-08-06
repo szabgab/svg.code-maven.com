@@ -92,4 +92,7 @@
 
   - [OOP in Perl](./book-covers/perl-oop.md)
 
+  - [Rust programming](./book-covers/rust-programming.md)
+
+
 - [Other](./other.md)
