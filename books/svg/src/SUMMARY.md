@@ -88,6 +88,8 @@
 - [Book cover](./book-covers/index.md)
   - [Functional Programming in Python](./book-covers/python-functional-programming.md)
   - [Testing Python](./book-covers/python-testing.md)
+  - [Python Testing Demo](./book-covers/python-testing-demo.md)
+
   - [OOP in Perl](./book-covers/perl-oop.md)
 
 - [Other](./other.md)
