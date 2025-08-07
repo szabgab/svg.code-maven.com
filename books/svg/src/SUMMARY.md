@@ -92,10 +92,12 @@
   - [Python Tk](./book-covers/python-tk.md)
   - [Python Flask](./book-covers/python-flask.md)
   - [Python FastAPI](./book-covers/python-fastapi.md)
+  - [Python Regular Expressions](./book-covers/python-regular-expressions.md)
 
   - [OOP in Perl](./book-covers/perl-oop.md)
 
   - [Rust programming](./book-covers/rust-programming.md)
+  - [Rust and JSON](./book-covers/rust-json.md)
 
 
 - [Other](./other.md)
