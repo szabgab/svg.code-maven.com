@@ -96,6 +96,7 @@
 
   - [OOP in Perl](./book-covers/perl-oop.md)
 
+  - [Clap](./book-covers/clap.md)
   - [Rust programming](./book-covers/rust-programming.md)
   - [Rust and JSON](./book-covers/rust-json.md)
 
