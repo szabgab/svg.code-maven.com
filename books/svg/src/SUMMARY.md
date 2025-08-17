@@ -99,6 +99,7 @@
   - [Clap](./book-covers/clap.md)
   - [Rust programming](./book-covers/rust-programming.md)
   - [Rust and JSON](./book-covers/rust-json.md)
+  - [Liquid in Rust](./book-covers/rust-liquid.md)
 
 
 - [Other](./other.md)
