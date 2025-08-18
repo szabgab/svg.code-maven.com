@@ -3,11 +3,13 @@
 - [SVG](./index.md)
 
 - [Introduction](./introduction/index.md)
+  - [Why?](./introduction/why.md)
   - [SVG and LLMs](./introduction/llms.md)
   - [SVG embedded in HTML](./introduction/svg-embedded-in-html.md)
   - [SVG loaded in an img](./introduction/svg-loaded-in-img.md)
   - [SVG loaded in an object](./introduction/svg-loaded-in-object.md)
   - [SVG loaded in an iframe](./introduction/svg-loaded-in-iframe.md)
+  - [Inkscape](./introduction/inkscape.md)
   - [SVG validation](./introduction/svg-validation.md)
   - [Convert SVG to PNG or JPEG](./introduction/convert-svg-to-png-or-jpeg.md)
   - [Style](./introduction/style.md)
