@@ -97,6 +97,7 @@
   - [Python Regular Expressions](./book-covers/python-regular-expressions.md)
 
   - [OOP in Perl](./book-covers/perl-oop.md)
+  - [Oneliners in Perl](./book-covers/perl-oneliners.md)
 
   - [Clap](./book-covers/clap.md)
   - [Rust programming](./book-covers/rust-programming.md)
