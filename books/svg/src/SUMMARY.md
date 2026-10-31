@@ -84,6 +84,7 @@
   - [Circle using Perl](./perl/circle.md)
   - [Rectangle using Perl](./perl/rectangle.md)
   - [Grid using Perl](./perl/grid.md)
+  - [Code Mavn logo using Perl](./perl/code-maven.md)
 
 - [SVG using Rust](./rust/index.md)
   - [Line](./rust/linde.md)
