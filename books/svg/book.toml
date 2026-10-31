@@ -9,13 +9,14 @@ title = "SVG - Scalable Vector Graphics"
 git-repository-url = "https://github.com/szabgab/svg.code-maven.com"
 git-repository-icon = "fas-code-fork"
 edit-url-template = "https://github.com/szabgab/svg.code-maven.com/edit/main/books/svg/{path}"
+additional-js = ["custom.js", "addlinks.js"]
 
 [output.markdown]
 
 # Handle Youtube video embedding and the footer
 [preprocessor.embedify]
 footer.enable = true
-footer.message = "Copyright © 2025 • Created with ❤️  by [Gábor Szabó](https://szabgab.com/)"
+footer.message = "Copyright © 2026 • Created with ❤️  by [Gábor Szabó](https://szabgab.com/)"
 
 
 
