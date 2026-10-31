@@ -15,6 +15,8 @@ my $blue = 'rgb(44, 122, 186)';
 my $left_padding = 37;
 my $middle = 248;
 my $horizontal_width = 42;
+my $right_padding = 40;
+my $xyz = $size - $right_padding - $horizontal_width;
 
 add_poly(
         [ $left_padding,  $middle ],
@@ -27,14 +29,14 @@ add_poly(
 add_poly(
         [ 286,  93 ],
         [ 307,  71 ],
-        [ 448, 194 ],
-        [ 405, $middle ],
-        [ 450, 275 ],
+        [ $size - $right_padding, 194 ],
+        [ $xyz, $middle ], # middle of M right
+        [ $size - $right_padding, 275 ],
         [ 306, 415 ],
         [ 285, 396 ],
-        [ 405, 278 ],
-        [ 363, $middle ],
-        [ 406, 197 ],
+        [ $xyz, 275 ],
+        [ 363, $middle ], # middle of M left
+        [ $xyz, 197 ],
     );
 
 print $svg->xmlify();
